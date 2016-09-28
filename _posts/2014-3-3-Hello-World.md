@@ -12,4 +12,5 @@ The Metis family with it's universally fantastic Fall Cohort have all been most 
 
 I'd now like to welcome you to my new worlds as I attempt to distil my experiences into readable snippets. Welcome!
 
-![]({{site.baseurl}}/https://goo.gl/CLC8AC)
+![download.jpeg]({{site.baseurl}}/_posts/download.jpeg)
+
