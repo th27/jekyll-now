@@ -4,8 +4,6 @@ published: true
 ---
 ![PHOTO.jpg]({{site.baseurl }}/images/PHOTO.jpg)
 
-Wrestling with Pythons. Saved by Pandas.
-
 Appropriately perhaps, this is an opening entry of many welcomes.
 
 New York City has welcomed me with a warm autumnal embrace.
