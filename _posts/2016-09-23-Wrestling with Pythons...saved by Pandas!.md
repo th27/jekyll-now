@@ -1,7 +1,8 @@
 ---
+layout: post
 published: true
 ---
-![PHOTO.jpg]({{site.baseurl}}/_posts/PHOTO.jpg)
+![PHOTO.jpg]({{site.baseurl }}/images/PHOTO.jpg)
 
 Wrestling with Pythons. Saved by Pandas.
 
