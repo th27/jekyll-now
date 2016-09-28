@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Wrestling with Pythons. Saved by Pandas.
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Appropriately perhaps, this is an opening entry of many welcomes.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+New York City has welcomed me with a warm autumnal embrace.
+The exciting field of Data Science has welcomed me with genuine tough love.
+The Metis family with it's universally fantastic Fall Cohort have all been most welcoming.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I'd now like to welcome you to my new worlds as I attempt to distil my experiences into readable snippets. Welcome!
+
+![]({{site.baseurl}}/https://goo.gl/CLC8AC)
